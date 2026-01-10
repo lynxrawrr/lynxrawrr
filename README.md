@@ -45,12 +45,12 @@ Seorang pengembang yang fokus menciptakan antarmuka pengguna yang interaktif dan
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burp"/>
 </p>
 
-<h3 align="left">Currently Learning</h3>
+<!-- <h3 align="left">Currently Learning</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="threejs"/>
-</p>
+</p> -->
 
 <!--
 **lynxrawrr/lynxrawrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
