@@ -2,7 +2,7 @@
 
 - Front End Developer
 - Focused on building interactive, responsive, and accessible web interfaces
-- Currently learning Laravel, Express.js, and Next.js
+- Currently learning Express.js and React
 - Improving UI/UX, web performance, and clean code practices through real projects
 
 ---
@@ -57,11 +57,10 @@ I aim to grow through hands-on projects, consistent practice, and writing mainta
 
 ## Currently Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <!-- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/> -->
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> -->
 </p>
-
 
 <!-- Optional: GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true)
